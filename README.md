@@ -1,2 +1,2 @@
 # sass-craft
-SassCraft: The Ultimate Bootstrap Customizer
+"SassCraft: The Ultimate Bootstrap Customizer" is a powerful web application designed to streamline the customization of Bootstrap stylesheets. With an intuitive interface, it allows users to easily modify Bootstrap's Sass variables, select components, and compile custom themes directly in their browser. SassCraft simplifies the process of creating unique, tailored Bootstrap themes, making it accessible for designers and developers of all skill levels to craft their perfect site aesthetics without deep diving into complex code.
